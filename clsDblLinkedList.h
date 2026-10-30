@@ -217,7 +217,7 @@ public:
 		}
 	}
 
-	void Revers()
+	void Reverse()
 	{
 		if (_size == 0)
 		{
